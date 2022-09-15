@@ -2,7 +2,7 @@
 
 
 
-KOHI 2022 Biosignal/EMR Artificial Intelligence Expert Course (Advanced)  
+KOHI 2022 Biosignal/EMR Artificial Intelligence Expert Training Course (Advanced)  
   
 Topic: Drug effect prediction (Hands-on)  
 Lecturer: Hyeonhoon Lee, KMD, PhD  
